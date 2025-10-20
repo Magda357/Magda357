@@ -1,6 +1,6 @@
 
 
-<h4 align="left">👋 Hey, ich bin Magda.<br><br>Ich komme aus Steinheim und lerne gerade, wie man mit React und Vue  Ideen lebendig werden lässt.<br>Mich motiviert am Coden vor allem das Lösen von Problemen – dieses kleine Erfolgserlebnis, wenn plötzlich alles funktioniert, was vorher unmöglich schien.<br>Ich würde mich als neugierig, ruhig und humorvoll beschreiben. Ich glaube, dass Lernen am besten klappt, wenn man nicht zu ernst dabei bleibt.</h4>
+<h5 align="left">👋 Hey, ich bin Magda.<br><br>Ich komme aus Steinheim und lerne gerade, wie man mit React und Vue  Ideen lebendig werden lässt.<br>Mich motiviert am Coden vor allem das Lösen von Problemen – dieses kleine Erfolgserlebnis, wenn plötzlich alles funktioniert, was vorher unmöglich schien.<br>Ich würde mich als neugierig, ruhig und humorvoll beschreiben. Ich glaube, dass Lernen am besten klappt, wenn man nicht zu ernst dabei bleibt.</h5>
 
 <img src="https://raw.githubusercontent.com/Magda357/Magda357/output/snake.svg" alt="Snake animation" />
 
